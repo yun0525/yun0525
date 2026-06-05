@@ -1,20 +1,41 @@
-### 안녕하세요. reswns0210입니다.
----
+# 👋 안녕하세요, yun0525입니다!
 
-**마땅히 쓸말이 없네요, 잘 부탁드립니다.**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50" />
+</p>
 
-### Sites:
+### 💻 About Me
+- 🔍 현재 **[리눅스 서버 보안 / 서버 인프라 엔지니어링]**에 깊은 관심을 두고 공부하고 있습니다.
+- 🛠️ 리눅스 환경에서의 서버 관리와 효율적인 자동화, 컨테이너 기반 아키텍처에 흥미가 있습니다.
+- 🤝 오픈소스 커뮤니티 활동과 유용한 도구(예: 디스코드 봇 등)를 개발하는 것을 즐깁니다.
+- 📝 기술 블로그나 개인 위키에 배운 것을 기록하는 습관을 지니고 있습니다.
 
-개인 포트폴리오용 사이트: https://git.reswns0210.org  
+<br>
 
-개인 이메일: reswns0210@icloud.com or contact@reswns0210.org
+### 🛠️ Tech Stack
 
-개인 블로그: https://blog.reswns0210.org  
+#### Environments & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black) ![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=Rocky-Linux&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=Oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
----
-### Extra:
+#### Languages & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=GNU_Bash&logoColor=white)
 
-[![reswns0210's GitHub stats](https://github-readme-stats.vercel.app/api?username=reswns0210)](https://github.com/anuraghazra/github-readme-stats)
+#### SecOps & Infrastructure Security & Secure Tunneling
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=flat-square&logo=AdGuard&logoColor=white) ![ocserv (SSL VPN)](https://img.shields.io/badge/ocserv_(SSL_VPN)-000000?style=flat-square&logo=linux&logoColor=white) ![nftables](https://img.shields.io/badge/nftables-000000?style=flat-square&logo=Linux&logoColor=white)
 
----
 
+
+<br>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[본인깃허브ID]&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[본인깃허브ID]&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+</p>
+
+<br>
+
+### 📫 Contact & Links
+- **Blog:** [blog.yun0525.work]
+- **SecEmail:** [securityinsight@yun0525.work]]
